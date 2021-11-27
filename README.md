@@ -1,7 +1,7 @@
 # Auditorias-Wifi
 Auditorias, reportes e informes sobre auditorias y pentests de redes wifi realizadas por mi.
 
-==================================== INFORMACION AUTOR ====================================
+================================== INFORMACION AUTOR ==================================
 
 Informe realizado por: 
 Cristian Arenas Ramirez
@@ -9,7 +9,7 @@ Cristian Arenas Ramirez
 Titulo/Deegre:
 Ingeniero en Informatica con Mencion en Ciberseguridad
 
-================================== DETALLES DE CONFECCION ==================================
+================================ DETALLES DE CONFECCION ================================
 
 FECHA REALIZACION INFORME: 30-10-2021
 
