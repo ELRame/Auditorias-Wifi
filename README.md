@@ -1,7 +1,7 @@
 # Auditorias-Wifi
 Auditorias, reportes e informes sobre auditorias y pentests de redes wifi realizadas por mi.
 
-=============================== INFORMACION AUTOR ===============================
+============================== INFORMACION AUTOR ==============================
 
 Informe realizado por: 
 Cristian Arenas Ramirez
