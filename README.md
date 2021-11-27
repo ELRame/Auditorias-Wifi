@@ -1,2 +1,45 @@
 # Auditorias-Wifi
 Auditorias, reportes e informes sobre auditorias y pentests de redes wifi realizadas por mi.
+
+==================================== INFORMACION AUTOR ====================================
+
+Informe realizado por: 
+Cristian Arenas Ramirez
+
+Titulo/Deegre:
+Ingeniero en Informatica con Mencion en Ciberseguridad
+
+================================== DETALLES DE CONFECCION ==================================
+
+FECHA REALIZACION INFORME: 30-10-2021
+
+Esta carpeta contiene solo auditorias de redes inalambricas realizadas por mi, como
+una forma de mostrar mis capacidades y como lo presento de cara al cliente/mandante.
+
+En este caso, se encuentra una auditoria a una red WPA2 Personal con seguridad PSK/AES
+el cual fue el informe-trabajo de egreso para una especializacion realizada en portal
+Hacker-Mentor.com. Si bien el entorno no es real, todo en cuanto a lo auditado es 
+aplicable a la realidad, contraseña, herramientas utilizadas, metodos de ataque, etc.
+
+Espero pueda servir a alguien de guia o punto de partida para realizar sus propios 
+informes.
+
+Herramientas utilizadas
+
+Para auditoria tecnica:
+
+- Kali Linux como OS en su version 2021.3
+- Suite Aircrack-ng (Airodump - Aireplay - Airmon)
+- Airgeddon
+
+Para visualizacion de señales y frecuencias:
+
+- App movil Wifi Analyzer
+
+Para confeccion de arquitectura de red:
+
+- Lucidchart.com
+
+Para cualquier contacto con mi persona o consultas sobre mis competencias laborales, favor 
+contactarme al correo c.arenas@outlook.com o visitar mi perfil linkedin: 
+https://www.linkedin.com/in/cristian-arenas-ramirez/
