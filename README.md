@@ -24,7 +24,16 @@ aplicable a la realidad, contraseña, herramientas utilizadas, metodos de ataque
 Espero pueda servir a alguien de guia o punto de partida para realizar sus propios 
 informes.
 
-Herramientas utilizadas
+TIPO DE INFORME
+
+- Tecnico (Para presentar a departamento tecnico de la empresa auditada).
+
+HERRAMIENTAS UTILIZADAS
+
+Hardware:
+
+- Laptop Lenovo Ideapad 510-15IKB (Core i5, 20GB RAM, 2TB HDD)
+- Antena Wifi AiroPlus Warrior N Series / Modelo WAR-2450-150N con Chipset Ralink 3070L
 
 Para auditoria tecnica:
 
